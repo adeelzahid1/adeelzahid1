@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:DD0031&height=220&section=header&text=Adeel%20Zahid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20.NET%20Developer%20%7C%20Building%20Logistics%20%26%20Courier%20Platforms&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:DD0031&height=220&section=header&text=Adeel%20Zahid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20.NET%20Developer%20-%20Building%20Logistics%20and%20Courier%20Platforms&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/adeelzahid1/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=512BD4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=6%2B+Years+Full-Stack+.NET+Developer;Building+Courier+%26+Logistics+Platforms;.NET+8+%7C+Angular+20+%7C+Clean+Architecture" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=512BD4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=6%2B+Years+Full-Stack+.NET+Developer;Building+Courier+and+Logistics+Platforms;.NET+8+-+Angular+20+-+Clean+Architecture" alt="Typing SVG"/>
 
 </div>
 
