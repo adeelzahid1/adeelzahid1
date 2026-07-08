@@ -8,7 +8,17 @@
 <a href="mailto:developer.adeelzahid@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://adeelzahid.surge.sh">
+  <img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 <img src="https://komarev.com/ghpvc/?username=adeelzahid1&label=Profile%20Views&color=512BD4&style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/2%2C500%2B-Drivers%20Managed-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/300K%2B-Monthly%20Shipments-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/6%2B-Years%20Experience-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Employee%20of%20the%20Year-2024-DD0031?style=flat-square&logo=star&logoColor=white"/>
 
 <br/><br/>
 
@@ -20,12 +30,25 @@
 
 ## 👋 About Me
 
-- 🚚 Currently building and maintaining a **courier service platform admin panel** serving UAE & Arab countries at **Dispatch EX LLC**
-- 🏗️ Architecting **Dispatcher** — a logistics/shipment management system on **.NET 8 Web API + Angular 20**, using **Clean Architecture with CQRS & MediatR**
+- 📍 Based in Faisalabad, Pakistan — open to remote opportunities
+- 🚚 Currently building and maintaining **Dispatch EX and Shipra IO** — logistics platforms serving **2,500+ drivers** and **300K+ monthly shipments** across UAE and Arab countries
+- 🏗️ Architecting **Dispatcher** — a next-gen logistics/shipment management system on **.NET 8 Web API and Angular 20**, using **Clean Architecture with CQRS and MediatR**
+- 🔌 Shipped **15+ third-party integrations** (WooCommerce, Shopify, C3X, Prestige), improving interoperability by 40%
+- 📡 Integrated **Firebase** for live driver tracking, geo-tagging, and push notifications across thousands of active drivers
+- ⚡ Used **Hangfire** for background jobs and async processing, cutting server load by 30%
 - 🤝 Collaborating with the **Shipra IO** team on mobile APIs
 - 🌱 Exploring low-cost, high-performance deployment strategies (Hetzner VPS, Docker Compose, Netlify/Vercel/Surge)
 - 📚 Building a structured **.NET/C# technical interview question bank** to help others (and myself) stay sharp
 - 💬 Ask me about **.NET, Angular, SQL Server, Clean Architecture, or WooCommerce integrations**
+
+<br/>
+
+## 🧭 My Journey
+
+```
+Mobile Dev (Flutter/Dart)  ->  ASP.NET Web Forms  ->  .NET MVC 5/6  ->  .NET 8 + Clean Architecture (CQRS/MediatR)
+   Andropple Lab                  Sherserve            H3 Solutions           Techno Batch (Dispatch EX / Shipra IO)
+```
 
 <br/>
 
@@ -57,8 +80,27 @@
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Reporting & Visualization**
+
+![Crystal Reports](https://img.shields.io/badge/Crystal%20Reports-0072C6?style=for-the-badge)
+![iTextSharp](https://img.shields.io/badge/iTextSharp-2E3440?style=for-the-badge)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB?style=for-the-badge)
+![DevExpress](https://img.shields.io/badge/DevExpress-2E3440?style=for-the-badge)
+
+**E-commerce & Integrations**
+
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 **Tools & Others**
 
@@ -105,6 +147,8 @@
 <a href="mailto:developer.adeelzahid@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<sub>🎓 BS Information Technology, Virtual University</sub>
 
 <br/><br/>
 
