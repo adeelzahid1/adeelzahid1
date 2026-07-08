@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=512BD4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=6%2B+Years+Full-Stack+.NET+Developer;Building+Courier+%26+Logistics+Platforms;.NET+8+%7C+Angular+20+%7C+Clean+Architecture" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=512BD4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=6%2B+Years+Full-Stack+.NET+Developer;Building+Courier+%26+Logistics+Platforms;.NET+8+%7C+Angular+20+%7C+Clean+Architecture" alt="Typing SVG"/>
 
 </div>
 
