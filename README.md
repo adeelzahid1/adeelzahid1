@@ -123,16 +123,16 @@ Mobile Dev (Flutter/Dart)  ->  ASP.NET Web Forms  ->  .NET MVC 5/6  ->  .NET 8 +
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adeelzahid1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=DD0031&icon_color=512BD4" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelzahid1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=DD0031" alt="Top languages" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adeelzahid1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeelzahid1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=adeelzahid1&theme=tokyonight&hide_border=true&background=00000000&ring=512BD4&fire=DD0031" alt="GitHub streak" />
+![GitHub streak](https://streak-stats.demolab.com/?user=adeelzahid1&theme=tokyonight&hide_border=true)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adeelzahid1&theme=tokyo-night&hide_border=true&bg_color=00000000&color=DD0031&line=512BD4&point=ffffff" alt="Contribution graph" />
+![Contribution graph](https://ghchart.rshah.org/512BD4/adeelzahid1)
 
 </div>
 
@@ -142,7 +142,7 @@ Mobile Dev (Flutter/Dart)  ->  ASP.NET Web Forms  ->  .NET MVC 5/6  ->  .NET 8 +
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adeelzahid1&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=adeelzahid1&theme=tokyonight&no-frame=true&column=6&margin-w=12&margin-h=12)
 
 </div>
 
