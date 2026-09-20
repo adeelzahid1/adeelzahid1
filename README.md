@@ -1,49 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:DD0031&height=220&section=header&text=Adeel%20Zahid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20.NET%20Developer%20-%20Building%20Logistics%20and%20Courier%20Platforms&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:DD0031&height=220&section=header&text=Adeel%20Zahid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20.NET%20Developer%20-%20Building%20Logistics%20and%20Courier%20Platforms&descAlignY=55&descSize=18" width="100%" alt="Adeel Zahid header" />
+
+<br/>
 
 <a href="https://linkedin.com/in/adeelzahid1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:developer.adeelzahid@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://adeelzahid.surge.sh">
-  <img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=adeelzahid1&label=Profile%20Views&color=512BD4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=adeelzahid1&label=Profile%20Views&color=512BD4&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/2%2C500%2B-Drivers%20Managed-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/300K%2B-Monthly%20Shipments-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/6%2B-Years%20Experience-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Employee%20of%20the%20Year-2024-DD0031?style=flat-square&logo=star&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adeel%20is%20our-UnderCover%20Agent-14b8a6?style=for-the-badge" alt="Adeel is our UnderCover Agent" />
+<img src="https://img.shields.io/badge/Minimum%20Time-Maximum%20Output-512BD4?style=for-the-badge" alt="Minimum Time, Maximum Output" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/2%2C500%2B-Drivers%20Managed-0078D4?style=flat-square" alt="2500+ drivers managed" />
+<img src="https://img.shields.io/badge/300K%2B-Monthly%20Shipments-0078D4?style=flat-square" alt="300K+ monthly shipments" />
+<img src="https://img.shields.io/badge/6%2B-Years%20Experience-0078D4?style=flat-square" alt="6+ years experience" />
+<img src="https://img.shields.io/badge/Employee%20of%20the%20Year-2024-DD0031?style=flat-square" alt="Employee of the Year 2024" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=512BD4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=6%2B+Years+Full-Stack+.NET+Developer;Building+Courier+and+Logistics+Platforms;.NET+8+-+Angular+20+-+Clean+Architecture" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=512BD4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=6%2B+Years+Full-Stack+.NET+Developer;Building+Courier+and+Logistics+Platforms;.NET+8+-+Angular+20+-+Clean+Architecture" alt="Typing headline" />
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## About Me
 
-- 📍 Based in Faisalabad, Pakistan — open to remote opportunities
-- 🚚 Currently building and maintaining **Dispatch EX and Shipra IO** — logistics platforms serving **2,500+ drivers** and **300K+ monthly shipments** across UAE and Arab countries
-- 🏗️ Architecting **Dispatcher** — a next-gen logistics/shipment management system on **.NET 8 Web API and Angular 20**, using **Clean Architecture with CQRS and MediatR**
-- 🔌 Shipped **15+ third-party integrations** (WooCommerce, Shopify, C3X, Prestige), improving interoperability by 40%
-- 📡 Integrated **Firebase** for live driver tracking, geo-tagging, and push notifications across thousands of active drivers
-- ⚡ Used **Hangfire** for background jobs and async processing, cutting server load by 30%
-- 🤝 Collaborating with the **Shipra IO** team on mobile APIs
-- 🌱 Exploring low-cost, high-performance deployment strategies (Hetzner VPS, Docker Compose, Netlify/Vercel/Surge)
-- 📚 Building a structured **.NET/C# technical interview question bank** to help others (and myself) stay sharp
-- 💬 Ask me about **.NET, Angular, SQL Server, Clean Architecture, or WooCommerce integrations**
+- Based in Faisalabad, Pakistan — open to remote opportunities
+- Currently building and maintaining **Dispatch EX** and **Shipra IO** — logistics platforms serving **2,500+ drivers** and **300K+ monthly shipments** across UAE and Arab countries
+- Architecting **Dispatcher** — a next-gen logistics / shipment platform on **.NET 8 Web API** and **Angular 20**, using **Clean Architecture with CQRS and MediatR**
+- Shipped **15+ third-party integrations** (WooCommerce, Shopify, C3X, Prestige), improving interoperability by 40%
+- Integrated **Firebase** for live driver tracking, geo-tagging, and push notifications across thousands of active drivers
+- Used **Hangfire** for background jobs and async processing, cutting server load by 30%
+- Collaborating with the **Shipra IO** team on mobile APIs
+- Exploring low-cost, high-performance deployment (Hetzner VPS, Docker Compose, Netlify / Vercel / Surge)
+- Building a structured **.NET / C# technical interview question bank**
+- Ask me about **.NET, Angular, SQL Server, Clean Architecture, or WooCommerce integrations**
 
 <br/>
 
-## 🧭 My Journey
+## My Journey
 
 ```
 Mobile Dev (Flutter/Dart)  ->  ASP.NET Web Forms  ->  .NET MVC 5/6  ->  .NET 8 + Clean Architecture (CQRS/MediatR)
@@ -52,7 +59,7 @@ Mobile Dev (Flutter/Dart)  ->  ASP.NET Web Forms  ->  .NET MVC 5/6  ->  .NET 8 +
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -112,46 +119,52 @@ Mobile Dev (Flutter/Dart)  ->  ASP.NET Web Forms  ->  .NET MVC 5/6  ->  .NET 8 +
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=adeelzahid1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=DD0031&icon_color=512BD4"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelzahid1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=DD0031"/>
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=adeelzahid1&theme=tokyonight&hide_border=true&background=00000000&ring=512BD4&fire=DD0031"/>
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adeelzahid1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=DD0031&icon_color=512BD4" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelzahid1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=DD0031" alt="Top languages" />
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adeelzahid1&theme=tokyo-night&hide_border=true&bg_color=00000000&color=DD0031&line=512BD4&point=ffffff"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=adeelzahid1&theme=tokyonight&hide_border=true&background=00000000&ring=512BD4&fire=DD0031" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adeelzahid1&theme=tokyo-night&hide_border=true&bg_color=00000000&color=DD0031&line=512BD4&point=ffffff" alt="Contribution graph" />
+
 </div>
 
 <br/>
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adeelzahid1&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=adeelzahid1&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+
 </div>
 
 <br/>
 
 <div align="center">
 
-### 📫 Let's Connect
+### Let's Connect
 
 <a href="https://linkedin.com/in/adeelzahid1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:developer.adeelzahid@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<sub>🎓 BS Information Technology, Virtual University</sub>
+<br/>
+
+BS Information Technology, Virtual University
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:512BD4&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:512BD4&height=100&section=footer" width="100%" alt="" />
 
 </div>
